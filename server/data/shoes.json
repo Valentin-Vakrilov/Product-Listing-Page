@@ -1,0 +1,162 @@
+{
+    "shoes-1": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/58395/58394029/images/res_84ce7077cf3acf933a0d48260c15e1b8.jpg?s=HZ6YdU9IhR6z",
+        "name": "DeFacto",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "122.99",
+        "rating": "2",
+        "_id": "shoes-1"
+    },
+    "shoes-2": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/56650/56649104/images/res_895ae029bbf8490148b5ced2ee568f9e.jpg?s=FV1-Zv3tB1BI",
+        "name": "Karl Lagerfeld",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "585.99",
+        "rating": "3",
+        "_id": "shoes-2"
+    },
+    "shoes-3": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/55486/55485779/images/res_85e43de6046359f22f3eb6a3ab2af8b9.jpg?s=Y-NTXjW8lvT3",
+        "name": "Hugo",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "388.99",
+        "rating": "1",
+        "_id": "shoes-3"
+    },
+    "shoes-4": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/55486/55485349/images/res_033aa3bbcee78759901cd10dbe2bf5b1.jpg?s=SM-NA0KU5CNe",
+        "name": "Boss",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "388.99",
+        "rating": "5",
+        "_id": "shoes-4"
+    },
+    "shoes-5": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/58308/58307286/images/res_d089636de228c6d33f5ce7790dcce2b7.jpg?s=JboJHijJ8_dg",
+        "name": "Mango",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "199.99",
+        "rating": "3",
+        "_id": "shoes-5"
+    },
+    "shoes-6": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/57492/57491437/images/res_da2ef7fc3d7d7141e7a82532cc861d00.jpg?s=RaaZhaEtqhmn",
+        "name": "Clarks",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "174.99",
+        "rating": "4",
+        "_id": "shoes-6"
+    },
+    "shoes-7": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/56863/56862033/images/res_cdbe40e0f867c50425993eb98b26790e.jpg?s=HkJ6Mio9jeTM",
+        "name": "Marc O'Polo",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "229.99",
+        "rating": "3",
+        "_id": "shoes-7"
+    },
+    "shoes-8": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/57595/57594443/images/res_71a221ce03829f2f30f1417e157d1a31.jpg?s=ogkeI4onc71E",
+        "name": "Jack & Jones",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "189.99",
+        "rating": "5",
+        "_id": "shoes-8"
+    },
+    "shoes-9": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/56460/56459796/images/res_06eff0aa1223a0b00315086c8ffbd2fb.jpg?s=h0b9H4J2cQS8",
+        "name": "AC & Co",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "245.99",
+        "rating": "3",
+        "_id": "shoes-9"
+    },
+    "shoes-10": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/57056/57055303/images/res_a84b4c15d78e330a74b4c84a87cfb11c.jpg?s=e2K30Cchd8gr",
+        "name": "Diesel",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "699.99",
+        "rating": "4",
+        "_id": "shoes-10"
+    },
+    "shoes-11": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/38291/38290063/images/res_4def3c5754a34812faadc4a3abc9c66e.jpg?s=cdvXmp0Uewj3",
+        "name": "Puma",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "233.99",
+        "rating": "1",
+        "_id": "shoes-11"
+    },
+    "shoes-12": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/58557/58556548/images/res_cf4e9128e7c7060817315309f2e6cae3.jpg?s=QJRxVpjN-sFn",
+        "name": "Lumberjack",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "155.99",
+        "rating": "2",
+        "_id": "shoes-12"
+    },
+    "shoes-13": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/58240/58239278/images/res_d3cdfa942dcdda88312fd34a0443d543.jpg?s=ChXVqTkkS2_2",
+        "name": "G-Star Raw",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "272.99",
+        "rating": "5",
+        "_id": "shoes-13"
+    },
+    "shoes-14": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/56557/56556545/images/res_9ee894269757c0370ce5b8e7c6a04ed1.jpg?s=TXfIrWr9A3W-",
+        "name": "Gant",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "253.99",
+        "rating": "5",
+        "_id": "shoes-14"
+    },
+    "shoes-15": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/53364/53363521/images/res_4ac1a0bddacc8da51dcb365e4afdf900.jpg?s=nGwER4rClMCq",
+        "name": "Salomon",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "135.99",
+        "rating": "1",
+        "_id": "shoes-15"
+    },
+    "shoes-16": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/58703/58702835/images/res_5e0c1377f8698786ca037627a9293503.jpg?s=PemwcfY0rEEo",
+        "name": "Mango",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "85.99",
+        "rating": "2",
+        "_id": "shoes-16"
+    },
+    "shoes-17": {
+        "image": "https://fdcdn.akamaized.net/m/390x585/products/58598/58597204/images/res_a4806619051b8c7c0e4df8588677dd54.jpg?s=0iD0ChiOLyV-",
+        "name": "Calvin Klein",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "249.99",
+        "rating": "5",
+        "_id": "shoes-17"
+    },
+    "shoes-18": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/58594/58593925/images/res_1cf18ec80552b8df1cc67652a054bd55.jpg?s=MTTocpY2zFUT",
+        "name": "Tommy Hilfiger",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "234.99",
+        "rating": "4",
+        "_id": "shoes-18"
+    },
+    "shoes-19": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/58174/58173361/images/res_437538777b20053d8c85031f60b9b45e.jpg?s=YQQ0QxOBvZm4",
+        "name": "Skechers",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "105.99",
+        "rating": "2",
+        "_id": "shoes-19"
+    },
+    "shoes-20": {
+        "image": "https://fdcdn.akamaized.net/m/780x1170/products/58681/58680736/images/res_475f7ca0dcebb8c1d80c6fb35fe49cfe.jpg?s=P0DwZjuRoOdE",
+        "name": "Asics",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta laudantium inventore minima nam. Quia dolorum nihil est quod.",
+        "price": "233.99",
+        "rating": "3",
+        "_id": "shoes-20"
+    }
+}

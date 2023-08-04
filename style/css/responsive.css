@@ -1,0 +1,114 @@
+@media (max-width: 1200px) {
+    #products-container {
+        grid-template-areas:
+            "tile tile"
+            "tile tile"
+            "tile tile";
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    .filter-container {
+        width: 98vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 18px;
+        margin-bottom: 18px;
+    }
+
+    .filter-container>p,
+    .filter-container>div {
+        margin-bottom: 6px;
+        margin-top: 6px;
+    }
+
+    #price-slider {
+        margin: 0px;
+    }
+
+    #category-name-sort-container {
+        flex-direction: column;
+    }
+
+    #category-name {
+        width: 100%;
+        align-items: center;
+    }
+
+    #category-name-sort-container>div.sort-container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 18px;
+    }
+}
+
+@media (max-width: 1000px) {
+    #navbar>ul>li {
+        font-size: 28px;
+        margin-right: 36px;
+    }
+
+    #account>i,
+    #account>section {
+        font-size: 24px;
+        margin-right: 6px;
+    }
+}
+
+@media (max-width: 800px) {
+    #navbar>ul>li {
+        font-size: 20px;
+        margin-right: 18px;
+    }
+
+    #account>i,
+    #account>section {
+        font-size: 20px;
+        margin-right: 6px;
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        flex-direction: column;
+    }
+
+    body>header>div:nth-child(1) {
+        display: flex;
+        justify-content: center;
+    }
+
+    #navbar {
+        width: 98vw;
+    }
+
+    #navbar>ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 18px;
+    }
+
+    .filter-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #products-container {
+        grid-template-areas:
+            "tile"
+            "tile"
+            "tile";
+    }
+
+    #links {
+        flex-direction: column;
+        align-items: center;
+    }
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Listing Page</title>
+    <link rel="stylesheet" href="./style/css/style.css">
+    <link rel="stylesheet" href="./style/css/responsive.css">
+</head>
+
+<body>
+    <header>
+        <div>
+            <img id="logo" src="./style/img/logo.png" alt="Logo">
+        </div>
+        <nav id="navbar">
+            <ul>
+                <li id="watches">Watches</li>
+                <li id="glasses">Glasses</li>
+                <li id="shoes">Shoes</li>
+            </ul>
+        </nav>
+        <div id="account">
+            <i class="fas fa-user"></i>
+            <section>Account</section>
+        </div>
+    </header>
+    <main>
+        <aside class="filter-container">
+            <p>Filter by:</p>
+            <div>
+                <label for="price-slider">Price Range:</label>
+                <input type="range" id="price-slider" min="0" max="2000" value="2000">
+                <span id="price-label">2000</span>
+            </div>
+            <div>
+                <label for="rating-select">Rating:</label>
+                <select id="rating-select">
+                    <option value="0">Any</option>
+                    <option value="1">1 Star</option>
+                    <option value="2">2 Stars</option>
+                    <option value="3">3 Stars</option>
+                    <option value="4">4 Stars</option>
+                    <option value="5">5 Stars</option>
+                </select>
+            </div>
+        </aside>
+        <div id="main-section">
+            <div id="category-name-sort-container">
+                <div id="category-name"></div>
+                <div class="sort-container">
+                    <label for="sorting-select">Sort by:</label>
+                    <select id="sorting-select">
+                        <option value="default">---</option>
+                        <option value="az">Alphabetical A-Z</option>
+                        <option value="za">Alphabetical Z-A</option>
+                        <option value="price-asc">Price Ascending</option>
+                        <option value="price-desc">Price Descending</option>
+                    </select>
+                </div>
+            </div>
+            <div id="products-counter"></div>
+            <div id="products-container"></div>
+            <div id="load-more-section">
+                <button id="load-more">Load More</button>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div id="social">
+            <i class="fab fa-facebook-square"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-youtube"></i>
+            <i class="fab fa-linkedin"></i>
+        </div>
+        <div id="links">
+            <a href="#">Terms and Conditions</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Contact Us</a>
+        </div>
+    </footer>
+    <script src="app.js"></script>
+</body>
+
+</html>

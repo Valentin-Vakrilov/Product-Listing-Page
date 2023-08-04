@@ -1,0 +1,196 @@
+@import "https://use.fontawesome.com/releases/v5.6.3/css/all.css";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nanum+Myeongjo&family=Roboto:wght@300;400&display=swap');
+
+body {
+    background-color: rgb(243, 241, 241);
+    font-family: 'Nanum Myeongjo', serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: aliceblue;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    width: 98.9vw;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 18px;
+}
+
+#logo {
+    height: 100px;
+    width: 300px;
+    object-fit: cover;
+    padding: 12px;
+}
+
+#navbar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 60vw;
+}
+
+#navbar > ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(81, 81, 111);
+    font-weight: 550;
+}
+
+#navbar > ul > li {
+    font-size: 42px;
+    margin-right: 60px;
+}
+
+#navbar > ul > li:hover, #account > i:hover, #account > section:hover, #load-more:hover, .tile > button, #links, #social {
+    cursor: pointer;
+}
+
+#account {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#account > i, #account > section {
+    font-size: 28px;
+    margin-right: 12px;
+    color: rgb(81, 81, 111);
+    font-weight: 550;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.filter-container {
+    width: 30vw;
+}
+
+.filter-container > p, .filter-container > div {
+    margin-bottom: 48px;
+}
+
+#category-name-sort-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#category-name {
+    display: flex;
+    flex-direction: column;
+}
+
+#category-name-sort-container > div.sort-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#products-container {
+    display: grid;
+    grid-template-areas:
+    "tile tile tile"
+    "tile tile tile"
+    "tile tile tile";
+}
+
+.tile {
+    margin: 0px 48px 48px 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tile img {
+    height: 350px;
+    object-fit: contain; 
+}
+
+.tile > p {
+    width: 80%;
+    text-align: center;
+    font-style: italic;
+}
+
+.tile > div {
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.tile > button {
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+#load-more-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+#load-more {
+    width: 120px;
+    height: 36px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+#products-counter {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 48px;
+}
+
+body > main > aside > div:nth-child(1) {
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+aside {
+    padding-left: 12px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightgray;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#links, #social {
+    display: flex;
+    flex-direction: row;
+}
+
+#social {
+    font-size: 24px;
+    gap: 24px;
+    margin-bottom: 24px;
+    justify-content: center;
+}
+
+#links {
+    justify-content: center;
+    gap: 24px;
+}
+
+#links > a {
+    text-decoration: none;
+    color: white;
+}
