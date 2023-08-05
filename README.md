@@ -2,7 +2,7 @@
 
 Created using HTML, CSS and JavaScript without any additional libraries and frameworks.
 The project displays a product listing page with these functionalities:
-  - "sticky" header containing company logo, navigation bar with 3 categories in it and a account section. On load the firs category "Watches" is loaded;
+  - "sticky" header containing company logo, navigation bar with 3 categories in it and a account section. On load the first category "Watches" is loaded;
   - filter options with capability for filtering based on 2 characteristics - by price and by rating;
   - products category name and description;
   - product counter showing the currently displayed items out of the total count of items for the current category;
