@@ -11,4 +11,4 @@ The project displays a product listing page with these functionalities:
     When clicking the button a success alert is displayed for 2 seconds;
   - "Load more" button - when clicked displays 9 more products. When there are no more products to display the button is disabled;
   - footer with two sections in it - "socials" and a set on links(T&C, Privacy policy, Contact us);
-  - the page is responsive and works well both on desktop and mobile as well.
+  - the page is responsive and works well both on desktop and mobile.
