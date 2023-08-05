@@ -1,7 +1,7 @@
 window.addEventListener("load", solve);
 
 function solve() {
-    let BASE_URL = "http://127.0.0.1:5500/C4%20Nexus%20Junior%20Dev%20Task/server/data/";
+    let BASE_URL = "http://127.0.0.1:5500/Product%20Listing%20Page/server/data/";
     let productsContainers = document.getElementById("products-container");
     let watchesCategory = document.getElementById("watches");
     let glassesCategory = document.getElementById("glasses");
